@@ -9,7 +9,7 @@ button.addEventListener("click",calSum);
 function calSum()
 {   
     //parseInt - This is a pre-definedd JavaScript function the converts Strings into an Integer
-
+//comment
     var num1= parseInt(document.querySelector("#firstNum").value);
     var num2= parseInt(document.querySelector("#secondNum").value);
 
